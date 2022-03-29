@@ -1,0 +1,61 @@
+
+body{
+	background: #A9DEF9;
+	font-size:25px;Je suis passionnée par le sport, notamment le football que je pratique et que j'enseigne
+}
+
+
+h1{
+	color: #E4C1F9;
+}
+
+
+h2{
+	color: #E4C1F9;
+	font-family: 'Ramaraja', serif;
+}
+
+
+.card-yellow {
+	width: 800px;
+	background-color: #FCF6BD;
+	border-radius: 20px;
+	text-align: center;
+	margin : 0 auto ;
+	box-shadow: 10px 10px 10px #E4C1F9;
+}
+
+
+#football1 {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10px;
+}
+
+
+#photo {
+	border-radius: 25px;
+	width: 100px;
+	height: 300px;
+	object-fit: cover;
+}
+
+
+#photofootball {
+	border-radius: 10px;
+}
+
+
+ul{ 
+	list-style: none;
+}
+
+
+.fa-brands {
+color: #A9DEF9;
+font-size: 55px;
+
+}
+
+
